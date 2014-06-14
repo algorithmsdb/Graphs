@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 struct node
 {
 int x,y;
@@ -38,11 +39,8 @@ while(t--)
 
             }
         }
-        
-        
-        
 
-        }
+        }   // end of test case
 
 
 }
