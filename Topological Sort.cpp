@@ -27,7 +27,7 @@ int main()
     for(int i=1;i<=E;i++)
         {
         cin>>a>>b;
-        adj[a].push_back(b);
+        adj[a].push_back(b);   // Directed Graph
         }
 
     cout<<"\n\n";
