@@ -11,7 +11,7 @@ int main()
 
 int t,n,m;
 char str[1000][1000];
-vector<node> adj[100][100];
+vector<node> adj[100][100]; 
 
 cin>>t;
 
